@@ -148,3 +148,4 @@ Right click `index.html` and click **"Open with Live Server"**.
 
 This project is open-source and available under the [MIT License](LICENSE).
 Weather data is provided by [Open-Meteo](https://open-meteo.com/) under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
+
